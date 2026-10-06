@@ -1,0 +1,6 @@
+{
+  "name": "Kudankulam Nuclear Power Plant – Cybersecurity Case Study",
+  "description": "Interactive Polytechnic Diploma Cyber Security SLA website analyzing the 2019 Dtrack Malware Incident and 2026 Reported Third-Party Data Leak with simulations, network segmentation, and presentation mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
